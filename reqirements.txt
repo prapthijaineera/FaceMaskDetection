@@ -2,3 +2,4 @@ streamlit
 tensorflow-cpu==2.12.0
 numpy
 pillow
+keras==2.12.0
